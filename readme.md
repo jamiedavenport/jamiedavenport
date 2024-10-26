@@ -1,4 +1,4 @@
-Hey there, I'm Jamie 👋
+# Hey there, I'm Jamie 👋
 
 - Founder of [Dea](https://www.usedea.com)
 - Ex-founder of Docbot
