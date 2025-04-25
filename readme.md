@@ -8,5 +8,5 @@ Engineer & Entrepreneur from London, UK. Currently CTO at [Allied Adaptive Indus
 
 ## Projects
 
-- [Tracklet](https://www.tracklet.dev/)
+- [Tracklet](https://www.tracklet.dev/) - API for digital nomads
 - [Forgotten](https://www.forgotten.app/)
