@@ -8,5 +8,5 @@ Engineer & Entrepreneur from London, UK. Currently CTO at [Allied Adaptive Indus
 
 ## Projects
 
+- [Blockly](https://blockly.jxd.dev/) - Block distracting websites
 - [Tracklet](https://www.tracklet.dev/) - API for digital nomads
-- [Forgotten](https://www.forgotten.app/)
