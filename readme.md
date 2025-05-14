@@ -5,6 +5,7 @@ Engineer & Entrepreneur from London, UK. Currently CTO @ [Allied Adaptive Indust
 ## Writing
 
 - [Block websites in 50 lines of code](https://www.jxd.dev/blog/block-websites-in-50-lines)
+- [Building interactive tutorials with WebContainers](https://www.jxd.dev/blog/interactive-tutorials-web-containers)
 - [Deploying Laravel on Vercel](https://www.jxd.dev/blog/laravel-vercel-example)
 
 ## Projects
