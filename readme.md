@@ -13,6 +13,7 @@
 
 ## Projects
 
+- [Quadratic](https://quadratic.jxd.dev/) - Customer feedback direct to Linear
 - [Blockly](https://blockly.jxd.dev/) - Block distracting websites
 - [Tracklet](https://www.tracklet.dev/) - API for digital nomads
 - [Habitable](https://www.habitable.app) - AI-powered ESG insights
