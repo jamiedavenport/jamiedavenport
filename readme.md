@@ -1,7 +1,7 @@
 # [Jamie](https://www.jxd.dev/)
 
 - Engineer & Entrepreneur from London, UK.
-- Focusing on [Big Journal](https://www.bigjournal)
+- Focusing on [Big Journal](https://www.bigjournal).
 - Currently CTO @ [Allied Adaptive Industries](https://www.a2i.network/).
 - CEO & Founder @ [JXD Ltd](https://www.jxd.dev).
 - Previously CEO & Founder @ [Docbot Labs](https://www.uktech.news/saas/docbot-labs-pre-seed-20221102).
