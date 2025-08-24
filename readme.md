@@ -2,8 +2,7 @@
 
 - Engineer & Entrepreneur from London, UK.
 - Focusing on [Big Journal](https://www.bigjournal.app).
-- Currently CTO @ [Allied Adaptive Industries](https://www.a2i.network/).
-- CEO & Founder @ [JXD Ltd](https://www.jxd.dev).
+- CEO & Founder @ [The Holistic Company](https://www.holistic.company).
 - Previously CEO & Founder @ [Docbot Labs](https://www.uktech.news/saas/docbot-labs-pre-seed-20221102).
 
 ## Projects
