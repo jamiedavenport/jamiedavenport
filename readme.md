@@ -1,12 +1,13 @@
 # [Jamie](https://www.jxd.dev/)
 
-- Engineer & Entrepreneur from London, UK.
+- Engineer & Entrepreneur from the UK.
 - Focusing on [Big Journal](https://www.bigjournal.app).
 - CEO & Founder @ [The Holistic Company](https://www.holistic.company).
 - Previously CEO & Founder @ [Docbot Labs](https://www.uktech.news/saas/docbot-labs-pre-seed-20221102).
 
 ## Projects
 
+- [Hype](https://www.buildhype.dev) - Early access management for developers.
 - [Luna](https://www.useluna.xyz) - Analytics for tRPC.
 - [Quadratic](https://quadratic.dev/) - Customer feedback direct to Linear.
 - [Blockly](https://blockly.jxd.dev/) - Block distracting websites.
