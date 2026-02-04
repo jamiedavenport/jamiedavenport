@@ -1,6 +1,6 @@
 # [Jamie Davenport](https://www.jxd.dev/)
 
-I'm a software engineer, entrepreneur and investor from London, UK 🇬🇧
+Software engineer, entrepreneur and investor from London, UK 🇬🇧
 
 ## Projects
 
