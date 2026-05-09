@@ -7,6 +7,7 @@ I'm the founder of [PolicyStack](https://policystack.dev) and a maintainer of [O
 ### What I'm working on
 
 - **[PolicyStack](https://policystack.dev)** — Founder. The stack behind compliant products.
+- **[Offstage](https://offstage.sh)** — Analytics your coding agent can read. Page views, events, and identities exposed through a typed MCP server.
 - **[OpenPolicy](https://github.com/jamiedavenport/openpolicy)** — Maintainer. Privacy policy infrastructure, done right.
 - **[OpenCookies](https://github.com/jamiedavenport/opencookies)** — Maintainer. Open-source consent, the way it should be.
 
