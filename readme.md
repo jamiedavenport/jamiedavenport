@@ -2,7 +2,7 @@
 
 Building open infrastructure for the modern web.
 
-I'm the founder of [PolicyStack](https://policystack.dev) and a maintainer of [OpenPolicy](https://github.com/jamiedavenport/openpolicy) and [OpenCookies](https://github.com/jamiedavenport/opencookies) — tools that make privacy and policy compliance something you ship, not something you suffer through.
+I'm the founder of [PolicyStack](https://policystack.dev) — tools that make privacy and policy compliance something you ship, not something you suffer through.
 
 ### What I'm working on
 
