@@ -7,6 +7,7 @@ I'm the founder of [PolicyStack](https://policystack.dev) — tools that make pr
 ### What I'm working on
 
 - **[PolicyStack](https://policystack.dev)** — Founder. The stack behind compliant products.
+- **[Plain](https://plain.jxd.dev)** - Founder. Modern Github alternative.
 - **[Offstage](https://offstage.sh)** — Analytics your coding agent can read. Page views, events, and identities exposed through a typed MCP server.
 
 ### Client work
