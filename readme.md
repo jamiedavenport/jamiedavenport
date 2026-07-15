@@ -23,8 +23,6 @@ Software engineer, entrepreneur, and investor in London. I build open-source dev
 
 | Essay | Notes |
 | --- | --- |
-| [Why we're building a GitHub alternative](https://www.jxd.dev/writing/building-plain) | The case for a developer platform that brings code, issues, docs, CI, artifacts, and agents into one coherent system. |
-| [What I Learned From Shutting Down My VC-Backed Startup](https://www.jxd.dev/writing/mistakes-as-founder) | A candid account of closing Docbot, including lessons on spending, go-to-market, and security. |
 | [Companies House's API spec is broken. Ours isn't.](https://www.jxd.dev/blog/companies-house-sdk) | Why we built a fully typed, zero-dependency TypeScript SDK for the Companies House API instead of patching its broken OpenAPI spec. |
 | [Instant by default, multiplayer by design](https://plain.jxd.dev/blog/realtime) | How Plain combines a live browser replica of Postgres with CRDT documents for a fast, collaborative product. |
 | [Our take on CI](https://plain.jxd.dev/blog/ci) | Why Plain treats workflows as real code and the platform as the standard library. |
