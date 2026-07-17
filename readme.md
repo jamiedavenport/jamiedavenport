@@ -18,6 +18,7 @@ Software engineer, entrepreneur, and investor in London. I build open-source dev
 | Client | Contribution |
 | --- | --- |
 | [Auvia](https://auvia.io/) | Web design, web development, and app development for an AI-powered client-intake platform for professional services. |
+| [Muriel Marketing](https://www.murielmarketing.com/) | Web development from designs to a 100 Lighthouse score in production, in one week. |
 
 ## Selected writing
 
